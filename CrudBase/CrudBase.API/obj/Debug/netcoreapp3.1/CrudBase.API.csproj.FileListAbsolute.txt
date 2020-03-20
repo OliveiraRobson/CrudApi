@@ -1,0 +1,10 @@
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\bin\Debug\netcoreapp3.1\CrudBase.API.exe
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\CrudBase.API.csprojAssemblyReference.cache
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\staticwebassets\CrudBase.API.StaticWebAssets.Manifest.cache
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\staticwebassets\CrudBase.API.StaticWebAssets.xml
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\CrudBase.API.AssemblyInfoInputs.cache
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\CrudBase.API.AssemblyInfo.cs
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.API\obj\Debug\netcoreapp3.1\CrudBase.API.RazorTargetAssemblyInfo.cache

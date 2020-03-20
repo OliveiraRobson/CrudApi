@@ -1,0 +1,8 @@
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\bin\Debug\netstandard2.0\CrudBase.Data.deps.json
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\bin\Debug\netstandard2.0\CrudBase.Data.dll
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\obj\Debug\netstandard2.0\CrudBase.Data.csprojAssemblyReference.cache
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\obj\Debug\netstandard2.0\CrudBase.Data.AssemblyInfoInputs.cache
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\obj\Debug\netstandard2.0\CrudBase.Data.AssemblyInfo.cs
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\bin\Debug\netstandard2.0\CrudBase.Data.pdb
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\obj\Debug\netstandard2.0\CrudBase.Data.dll
+C:\Users\Robson\source\repos\OliveiraRobson\CrudApi\CrudBase\CrudBase.Data\obj\Debug\netstandard2.0\CrudBase.Data.pdb
